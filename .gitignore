@@ -20,3 +20,4 @@ lib/firebase_options.dart
 .vscode/
 *.iml
 .DS_Store
+env.local.json
